@@ -1,0 +1,98 @@
+{
+  "title": "Scam Call Awareness",
+  "description": "A comprehensive guide to identifying and avoiding scam calls targeting Indian citizens.",
+  "lessons": [
+    {
+      "lesson_number": 1,
+      "title": "Introduction to Scam Calls in India",
+      "objective": "Understand the prevalence and impact of scam calls in India.",
+      "content": "India is facing a surge in scam calls, with fraudsters impersonating government officials, banks, and other institutions. These scams can lead to significant financial losses and emotional distress. This module aims to equip you with the knowledge to identify and avoid these scams. Think of it as your personal 'Scam-Fu' training!",
+      "keywords": ["scam calls", "fraud", "India", "impact", "prevalence"]
+    },
+    {
+      "lesson_number": 2,
+      "title": "Government Impersonation Scams: The Authority Card",
+      "objective": "Recognize and avoid scams where fraudsters impersonate government officials.",
+      "content": "Scammers often pretend to be government officials to instill fear and demand immediate action. Common examples include: \n\n*   **Electricity Scam:** Fake calls from the power company demanding immediate payment to avoid disconnection.\n*   **Police Scam:** Impersonating police officers threatening legal action.\n*   **Income Tax Scam:** Claiming unpaid taxes and threatening legal consequences.\n\n**Red Flags:** Urgency, threats, requests for personal information or immediate payment.\n\n**Defense:** Verify the caller's identity by contacting the relevant government department directly through official channels. Never share personal information or make payments over the phone.",
+      "keywords": [
+        "government impersonation",
+        "electricity scam",
+        "police scam",
+        "income tax scam",
+        "Aadhaar scam",
+        "TRAI",
+        "UIDAI"
+      ]
+    },
+    {
+      "lesson_number": 3,
+      "title": "Remote Access Scams: The 'Helpful' Hacker",
+      "objective": "Identify and avoid scams involving remote access software.",
+      "content": "Fraudsters may try to trick you into installing remote access software (e.g., AnyDesk, TeamViewer) by claiming they need to 'help' you with a technical issue. Once they have access, they can steal your banking details or personal data.\n\n**Common Scenarios:**\n\n*   Fake bank officials requesting remote access to 'secure' your account.\n*   E-commerce refund agents demanding remote access to process a refund.\n*   Cybercrime police 'investigating' a fraud case.\n\n**Red Flags:** Unsolicited requests to install remote access software, claims of urgent technical issues.\n\n**Defense:** Never install remote access software at the request of an unsolicited caller. If you need technical support, contact the company directly through their official website or customer service channels.",
+      "keywords": [
+        "remote access",
+        "AnyDesk",
+        "TeamViewer",
+        "banking scam",
+        "e-commerce scam",
+        "tech support"
+      ]
+    },
+    {
+      "lesson_number": 4,
+      "title": "Lottery and Prize Scams: The Alluring Jackpot",
+      "objective": "Recognize and avoid lottery and prize scams.",
+      "content": "Scammers often lure victims with the promise of a large lottery or prize, requiring them to pay 'fees' or 'taxes' to claim their winnings. These prizes are, of course, as real as a unicorn riding a scooter.\n\n**Common Tactics:**\n\n*   Fake lottery calls claiming you've won a huge sum of money.\n*   Festival scams offering prizes during Diwali, New Year, etc.\n*   Fake international lotteries requiring payment of taxes.\n\n**Red Flags:** Unsolicited notifications of winning a lottery or prize, requests for upfront payments.\n\n**Defense:** Be skeptical of unsolicited offers of prizes or lotteries. Never pay any fees or taxes to claim a prize you didn't enter.",
+      "keywords": [
+        "lottery scam",
+        "prize scam",
+        "fake lottery",
+        "festival scam",
+        "bank rewards"
+      ]
+    },
+    {
+      "lesson_number": 5,
+      "title": "E-commerce Scams: The Online Bazaar of Deceit",
+      "objective": "Identify and avoid scams related to online shopping and e-commerce platforms.",
+      "content": "Scammers often impersonate customer service agents from popular e-commerce platforms like Amazon, Flipkart, or Swiggy to steal money or data.\n\n**Common Scenarios:**\n\n*   Fake refund agents claiming issues with a refund and demanding OTPs.\n*   Fake orders offering free products in exchange for shipping fees.\n*   Cashback scams promising large cashbacks in exchange for card details.\n\n**Red Flags:** Requests for OTPs or card details, unsolicited calls about refunds or orders.\n\n**Defense:** Never share OTPs or card details with unsolicited callers. Contact the e-commerce platform directly through their official website or app to verify any issues.",
+      "keywords": [
+        "e-commerce scam",
+        "refund scam",
+        "fake orders",
+        "cashback scam",
+        "delivery scam",
+        "Amazon",
+        "Flipkart",
+        "Swiggy"
+      ]
+    },
+    {
+      "lesson_number": 6,
+      "title": "Banking and Financial Scams: The Vault of Vulnerability",
+      "objective": "Recognize and avoid scams targeting banking and financial information.",
+      "content": "Scammers frequently impersonate banks or financial institutions to steal money or sensitive information.\n\n**Common Tactics:**\n\n*   KYC update scams threatening to freeze your account unless you update your KYC information.\n*   Fake RBI officials claiming your account is under investigation and requesting fund transfers.\n*   Loan fraud offering pre-approved loans in exchange for processing fees.\n\n**Red Flags:** Threats of account freezing, requests for OTPs or fund transfers, claims of urgent account issues.\n\n**Defense:** Never share OTPs or banking details with unsolicited callers. Contact your bank directly through their official channels to verify any issues.",
+      "keywords": [
+        "banking scam",
+        "financial scam",
+        "KYC update",
+        "RBI",
+        "loan fraud",
+        "account freeze"
+      ]
+    },
+    {
+      "lesson_number": 7,
+      "title": "Staying Safe: Best Practices and Prevention",
+      "objective": "Implement best practices to protect yourself from scam calls.",
+      "content": "Protecting yourself from scam calls requires vigilance and awareness. Here are some best practices:\n\n*   **Be Skeptical:** Be wary of unsolicited calls, especially those demanding urgent action or requesting personal information.\n*   **Verify Identity:** Always verify the caller's identity by contacting the organization directly through official channels.\n*   **Never Share Personal Information:** Never share OTPs, banking details, or other sensitive information over the phone.\n*   **Report Suspicious Calls:** Report scam calls to the relevant authorities and telecom providers.\n*   **Stay Informed:** Keep yourself updated on the latest scam tactics and trends.\n\nRemember, knowledge is your best defense against these digital tricksters! Stay sharp, stay safe, and don't let those scammers get the better of you!",
+      "keywords": [
+        "scam prevention",
+        "best practices",
+        "security",
+        "awareness",
+        "reporting"
+      ]
+    }
+  ]
+}
